@@ -1,4 +1,4 @@
-package org.example.lesson03
+package org.example.lessons.lesson03
 
 // will be mutable?
 // do we need to initialize it right away? -> if not lateinit
